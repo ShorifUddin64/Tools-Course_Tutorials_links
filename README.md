@@ -40,6 +40,7 @@
 ## 💿 Image Link
 * **Blogger
 * **অফিশিয়াল লিংক:** https://www.blogger.com/about/
+<p>
 
 
 
@@ -47,7 +48,8 @@
 
 
 
-
+   
+</p>
 
 
 # 🛠️ Course Tutorial Links
