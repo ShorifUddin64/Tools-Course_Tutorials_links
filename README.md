@@ -55,5 +55,5 @@
 
 # 🛠️ Course Tutorial Links
 
-* **DATA BASE
-   !)  https://youtu.be/i3cLr_3qNWM?si=H2DPe7N11qasjJlW
+* **DATA BASE**  https://youtu.be/i3cLr_3qNWM?si=H2DPe7N11qasjJlW
+* **DATA BASE** 
